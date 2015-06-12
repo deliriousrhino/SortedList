@@ -1,0 +1,19 @@
+{
+  "name": "sortedlist",
+  "version": "0.3.1",
+  "homepage": "https://github.com/deliriousrhino/SortedList",
+  "authors": [
+    "SHIN Suzuki <shinout310@gmail.com>"
+  ],
+  "description": "sorted list",
+  "main": "./SortedList.js",
+  "keywords": ["sort","list","bsearch","algorithm"],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
